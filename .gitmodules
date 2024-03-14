@@ -1,0 +1,27 @@
+[submodule "dataplane"]
+	path = dataplane
+	url = git@gitlab.com:trivialsec/feed-processor-dataplane.git
+
+[submodule "proofpoint"]
+	path = proofpoint
+	url = git@gitlab.com:trivialsec/feed-processor-proofpoint.git
+
+[submodule "darklist"]
+	path = darklist
+	url = git@gitlab.com:trivialsec/feed-processor-darklist.git
+
+[submodule "cruzit"]
+	path = cruzit
+	url = git@gitlab.com:trivialsec/feed-processor-cruzit.git
+
+[submodule "haleys"]
+	path = haleys
+	url = git@gitlab.com:trivialsec/feed-processor-charles-haleys.git
+
+[submodule "bruteforceblocker"]
+	path = bruteforceblocker
+	url = git@gitlab.com:trivialsec/feed-processor-bruteforceblocker.git
+
+[submodule "binarydefense"]
+	path = binarydefense
+	url = git@gitlab.com:trivialsec/feed-processor-binarydefense.git
