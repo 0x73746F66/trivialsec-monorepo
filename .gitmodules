@@ -25,3 +25,11 @@
 [submodule "binarydefense"]
 	path = binarydefense
 	url = git@gitlab.com:trivialsec/feed-processor-binarydefense.git
+
+[submodule "trivialscan"]
+	path = trivialscan
+	url = git@gitlab.com:trivialsec/trivialscan.git
+
+[submodule "tlstrust"]
+	path = tlstrust
+	url = git@gitlab.com:trivialsec/tlstrust.git
